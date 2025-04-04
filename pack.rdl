@@ -1,0 +1,13 @@
+Format = 0.1.0
+
+@unique
+[Pack]
+Name=test
+Descripion="Hello
+this is a test pack with 
+multiple 
+lines
+and some incredibly long and useless text that may or may not overflow and i want to see what happens"
+Credentials = Rubinschwein47
+Thumbnail = GetImage(thumbnail.png)
+[--Pack]

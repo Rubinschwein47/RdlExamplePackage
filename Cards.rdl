@@ -1,0 +1,10 @@
+[Card]
+Name=Walk
+Type=Walk
+Background=GetImage(barefoot.png)
+WalkAble=2
+Range=5
+Description="This is the standart- go to movement card
+Not much to say here to be honest
+:)"
+[--Card]
