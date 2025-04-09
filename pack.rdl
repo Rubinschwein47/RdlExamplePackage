@@ -3,7 +3,7 @@ Format = 0.1.0
 @unique
 [Pack]
 Name=test
-Descripion="Hello
+Description="Hello
 this is a test pack with 
 multiple 
 lines
